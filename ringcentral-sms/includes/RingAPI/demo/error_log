@@ -1,0 +1,74 @@
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:28:35 America/Denver] PHP Warning:  require_once(/home2/paladip9/public_html/ring/RingAPI/demo/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paladip9/public_html/ring/RingAPI/demo/_bootstrap.php on line 3
+[13-Mar-2018 11:28:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/paladip9/public_html/ring/RingAPI/demo/../vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/paladip9/public_html/ring/RingAPI/demo/_bootstrap.php on line 3
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[13-Mar-2018 11:29:08 America/Denver] PHP Warning:  require_once(/home2/paladip9/public_html/ring/RingAPI/demo/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/paladip9/public_html/ring/RingAPI/demo/_bootstrap.php on line 3
+[13-Mar-2018 11:29:08 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/paladip9/public_html/ring/RingAPI/demo/../vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/paladip9/public_html/ring/RingAPI/demo/_bootstrap.php on line 3
