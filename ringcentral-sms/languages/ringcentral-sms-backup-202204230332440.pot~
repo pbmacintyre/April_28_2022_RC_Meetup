@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ringcentral-sms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-23 03:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: ringcentral-sms"
+
+#: includes/rc-config-page.php:287
+msgid "Adjust settings to your preferences!"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://paladin-bs.com/peter-macintyre/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ringcentral.com/"
+msgstr ""
+
+#: includes/rc-send-sms-page.php:30
+msgid "Mobile Number"
+msgstr ""
+
+#. Author of the plugin
+msgid "Peter B. MacIntyre"
+msgstr ""
+
+#. Description of the plugin
+msgid "RingCentral SMS Sample Plugin - FREE baby"
+msgstr ""
+
+#. Name of the plugin
+msgid "ringcentral-sms"
+msgstr ""
